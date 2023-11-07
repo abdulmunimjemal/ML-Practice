@@ -1,3 +1,3 @@
 # ML-Practice
 
-Machine Learning A-Z Course Practices
+Machine Learning Practice Notebooks
